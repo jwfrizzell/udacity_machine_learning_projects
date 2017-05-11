@@ -1,3 +1,4 @@
+# RUBRIC: https://review.udacity.com/#!/rubrics/103/view
 # Machine Learning Engineer Nanodegree
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
